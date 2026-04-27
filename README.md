@@ -22,8 +22,8 @@ This works in **two phases, in two different chats.**
 
 ### Phase 2 — Build your app
 
-6. Open a *new* chat with a coding AI (Claude, [Claude Code](https://www.claude.com/product/claude-code), Cursor, Bolt — whatever you have access to).
-7. Paste the plan from Phase 1 and say *"please build this."*
+6. Open an AI-enabled coding tool. Good options: [Cursor](https://cursor.com/), [VS Code](https://code.visualstudio.com/) with an AI extension like [Claude Code](https://www.claude.com/product/claude-code) or [Codex](https://developers.openai.com/codex/cli/).
+7. Save the plan from Phase 1 as `AGENTS.md` in your project folder so the IDE's AI can read it directly and say *"please build this."*
 8. Run what it gives you. The first version probably won't be perfect — that's normal, not failure. Just describe what's wrong and the AI will fix it. Repeat until it works.
 
 That's the whole loop.
@@ -56,6 +56,12 @@ The single biggest cause of abandoned first projects is unclear scope. This file
 - **Expect to iterate during the build.** Two or three rounds of "this doesn't work right" → "fixed" is normal, not a sign you're doing it wrong.
 - **If you get stuck, start over.** A fresh chat with the planning template is cheaper than fighting a broken build.
 
-## Credits
+## About
 
-[Add your lecture name, your name, links, license, etc.]
+Created by **Paulo Kuriki, MD** — neuroradiologist and Assistant Professor at UT Southwestern Medical Center, where he directs the AIR-Hub at the Department of Radiology. Originally from São Paulo, Brazil. Builds AI tools for radiology and teaches others to do the same.
+
+If a doctor can code, so can you.
+
+- Website: [kuriki.ai](https://kuriki.ai/)
+- GitHub: [@paulokuriki](https://github.com/paulokuriki)
+- LinkedIn: [paulokuriki](https://www.linkedin.com/in/paulokuriki/)
